@@ -402,3 +402,7 @@ needReadFile=yRWZdAS6
 originalCreateDate=wLSGP4oEzLKAz4=iz=66
 test23123123123123
 ```
+
+## jsp 编译目录
+
+`C:/Seeyon/A8/ApacheJetspeed/work/Catalina/localhost/seeyon/org/apache/jsp/`
