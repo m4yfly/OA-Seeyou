@@ -406,3 +406,7 @@ test23123123123123
 ## jsp 编译目录
 
 `C:/Seeyon/A8/ApacheJetspeed/work/Catalina/localhost/seeyon/org/apache/jsp/`
+
+## 默认账号密码
+
+![](./default.png)
