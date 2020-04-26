@@ -25,7 +25,7 @@ ctpDataSource.maxCount=2000
 echo UWJ0dHgxc2U= |base64 -d
 Qbttx1se
 ```
-其中1.0 代表偏移一位
+其中1.0 代表左偏移一位
 
 对应的解密成明文
 
