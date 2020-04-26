@@ -341,12 +341,12 @@ originalCreateDate=wLSGP4oEzLKAz4=iz=66
 结果：
 ```
 OPTION= SAVEASIMG
-currentUserId =6993007969600000271
-CREATEDATE =2019-05-20
-RECORDID =-5505256504423462237
-originalFileId =1
-originalCreateDate =2019-05-20
-FILENAME =..\..\..\ApacheJetspeed\webapps\seeyon\test123456.jsp
-needReadFile =1558275164
-Encode FILENAME =qfTdqfTdqfTdVaxJeAJQBRl3dExQyYOdNAlfeaxsdGhiyYlTcATdN1liN4KXwiVGzfT2dEg6
+currentUserId= 6993007969600000271
+CREATEDATE= 2019-05-20
+RECORDID= -5505256504423462237
+originalFileId= 1
+originalCreateDate= 2019-05-20
+FILENAME= ..\..\..\ApacheJetspeed\webapps\seeyon\test123456.jsp
+needReadFile= 1558275164
+Encode FILENAME= qfTdqfTdqfTdVaxJeAJQBRl3dExQyYOdNAlfeaxsdGhiyYlTcATdN1liN4KXwiVGzfT2dEg6
 ```
