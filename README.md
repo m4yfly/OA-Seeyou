@@ -4,6 +4,8 @@
 
 `致远OA数据库配置文件：/opt/Seeyon/A8/base/conf/datasourceCtp.properties`
 
+![](./config.png)
+
 ```
 ctpDataSource.minCount=50
 mysql.backup.path=
