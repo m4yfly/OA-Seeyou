@@ -41,6 +41,12 @@ Passw0rd
 
 ```
 
+脚本
+
+`python Ddatabase.py`
+
+![](./password_decode.png)
+
 ## HtmlOfficeServlet 中变异base64算法
 
 `seeyon-apps-common.jar!\com\seeyon\ctp\common\office\HtmlOfficeServlet.class`
